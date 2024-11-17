@@ -3,7 +3,6 @@
 int
 main()
 {
-  //конфликт
   std::string name;
   std::cout << "Enter u name";
   std::cin >> name;
