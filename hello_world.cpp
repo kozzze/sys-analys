@@ -1,6 +1,8 @@
 #include <iostream>
 // Main func
-int main() {
+int
+main()
+{
   std::string name;
   std::cout << "Enter u name";
   std::cin >> name;
